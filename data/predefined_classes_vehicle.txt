@@ -1,0 +1,14 @@
+person
+motorbike
+bicycle
+tricycle
+car
+SUV
+bus
+microbus
+midibus
+pickup
+truck
+tanker
+tractor
+engineeringvan

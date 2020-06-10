@@ -1,0 +1,7 @@
+close
+cover
+open
+yellow
+blue
+other
+security

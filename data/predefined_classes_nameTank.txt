@@ -1,0 +1,13 @@
+tankNoPipe
+pot
+basin
+fireTool
+yellow
+trunk
+liteBlue
+deepBlue
+tankClose
+tankPipe
+lineLink
+lineBreak
+other
